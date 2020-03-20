@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm
+.idea/
+
+# Force project
+doc/build/
+doc/source/api
+force_chemtools/version.py
+
+# MacOS
+.DS_Store
